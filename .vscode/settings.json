@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.txt": "code-text-binary",
+        "doublelist.h": "c",
+        "at070tn92_lcd.h": "c",
+        "tounch.h": "c",
+        "album.h": "c",
+        "bmp.h": "c",
+        "mman.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+
+}
